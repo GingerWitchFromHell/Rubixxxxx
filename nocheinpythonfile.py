@@ -1,1 +1,0 @@
-print("Wir testen erstmal github, weil wir können")
